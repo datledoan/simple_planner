@@ -1,0 +1,7 @@
+<library path="lib/libsimple_planner">
+  <class name="simple_planner/SimplePlanner" type="simple_planner::SimplePlanner" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>
+      A simple planner for testing :v
+    </description>
+  </class>
+</library>
